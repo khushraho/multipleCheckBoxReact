@@ -1,0 +1,24 @@
+
+.container{
+  display: flex;
+}
+.left,.right{
+  width: 50%;
+}
+.card{
+    display: flex;
+    align-items: center;
+  border: 1px solid #ccc;
+}
+  /* padding: 15px; */
+button{
+  padding: 20px 45px;
+  background-color: #282c34;
+  color: #fff;
+  margin-right: 15px;
+  border: 0;
+}
+
+.results{
+  padding: 15px;
+}
